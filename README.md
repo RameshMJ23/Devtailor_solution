@@ -20,7 +20,7 @@ int ArrayChallenge(List arr) {
   // if the next values is greater than the reference index, profit for that indexes are calculated
   //  and stored in local var(7), then all greatest values among each iteration is 
   // stored in profits list(1, 7) and at last the largest profit margin among the list (1)
-  // is returned if the list is not null. If null the function returns -1
+  // is returned if the list is not null. If null the function returns -1 (8)
   
   
   //1
