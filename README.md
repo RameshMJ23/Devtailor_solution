@@ -3,11 +3,11 @@
 Solution for array problem
 
 
+```dart
+
 import 'dart:core';
 
 void main(){
-
-  
   print(ArrayChallenge([1,2,5,12]));
 }
   
@@ -62,4 +62,6 @@ int ArrayChallenge(List arr) {
     return -1;
   }
 }
+
+```
 
